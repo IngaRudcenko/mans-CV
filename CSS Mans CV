@@ -1,0 +1,43 @@
+body{
+  font-family: "comic sans ms",fantasy;
+  font-size:14px;
+  line-height:18px;
+  color:#808080;
+  background:	#FFE4E1;
+}
+h1{
+ font-family: "georgia" fantasy;
+  font-size:36 px;
+  line-height:36 px;
+  text-align: center;
+}
+  
+  h2{
+ font-family: "georgia" fantasy;
+  font-size:36 px;
+  line-height:36 px;
+  
+  color:#8A2BE2;
+  }
+
+.info{
+  text-shadow: 1px 1px 1px #000, 
+               3px 3px 5px blue; 
+  text-align:right;
+    line-height:10px;
+  font-size:20px;
+  
+} 
+.language{
+  display:inline block;
+    vertical-align:top;
+  width:25%:
+
+  }
+ 
+  .repeating-linear {
+  color: :#808080;
+  border: 7px solid pink;
+  border-image: repeating-linear-gradient( 45deg, pink, pink 1%, purple 1%, purple 8%) 10;
+}
+
