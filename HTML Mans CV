@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mans-CV</title>
+</head>
+<body>
+  <div class="repeating-linear">
+
+    <header>
+ <h1> CURRICULUM VITAE </h1>
+          <img src="https://emojiguide.org/images/emoji/r/1o19rj11f7hxar.png"width=170 height=150 alt="Mans foto" style="margin-right">
+       </header>
+    <section class="info">
+      <h3> Inga Rudčenko </h3>
+      <p> Laukmalas iela 5, Dobelnieki, Ogres nov, LV-5015 </p>
+      <p> Tel.nr +37129176327</p>
+      <p> E-pasts :inga.rudcenko@gmail.com</p>
+      </section>
+  
+    
+    <section class="education">
+      <h2><u>IZGLĪTĪBA</u></h2>
+      <p><i> Rīgas 45.vidusskola - vidējā izglītība</p>
+           <p> Rīgas Tirdznicības Tehnikums - uzņēmējdarbības grāmatvedis</p>
+            <p> Baltijas Starptautiskā   Akadēmija - otrā līmeņa profesionālā augstākā izglītība - uzņēmējdarbības vadītājs</p></i>
+       </section> 
+      <section class="addeducation">
+        <h2>PAPILDUS IZGLĪTĪBA/APMĀCĪBAS</h2>
+       <p> Profesionālā pilnveides un tālākizglītības iestāde "Mācību centrs plus"-Tāmēšanas pamati</P>
+          </section> 
+         
+        <section class="job">
+       <h2>DARBA PIEREDZE</h2>
+          <ul>
+            <li> SIA NERITA - iepirkšanas menedžers </li>
+             <li> SIA GANESH TRUCK - grāmatveža palīgs
+         </li>
+             <li> SIA DB SCHENKER - ekspedītors (klientu serviss) </li>
+             <li> SIA OPTIMODAL BALTIJA - mededžers </li>
+            
+            <li> SIA TEHPARK-D - grāmatvede </li>
+             </ul>
+           </section> 
+          
+          
+          
+       <section class="language">
+      
+
+       <h2>VALODU ZINĀŠANAS</h2> 
+       
+        <p>
+         <table> 
+  <tr>
+    <th>VALODA<th>
+    <th>RUNĀŠANA</th>
+    <th>RAKSTĪŠANA</th>
+    <th>SAPRAŠANA</th>
+  </tr>
+  <tr>
+    <td>Latviešu</td>
+    <td></td>
+    <td>DZIMTĀ</td>
+    <td>DZIMTĀ</td>
+    <td>DZIMTĀ</td>
+  </tr>
+  <tr>
+    <td>Krievu</td>
+    <td></td>
+    <td>TEICAMI</td>
+    <td>LABI</td>
+    <td>TEICAMI</td>
+  </tr>
+             <tr>
+    <td>Angļu</td>
+    <td></td>
+    <td>VIDĒJI</td>
+    <td>LABI</td>
+    <td>VIDĒJI</td>
+</table></p>
+          </section> 
+         
+         
+          <section class="other">
+       <h2> CITAS PRASMES</h2>
+             </section> 
+<P><u> Labas datorprogramu zināšanas:</u> Tildes Jumis, 1c, Zalktis, CIEL,  Microsoft Office.</p>
+  
+<p> Autovadītāja apliecība - B kategorija </p>
+
+
+    </div>
+  </body>
+</html>
 
